@@ -1,0 +1,12 @@
+{
+  "name": "lista-compras-api",
+  "version": "1.0.0",
+  "description": "API REST simple para gestionar una lista de compras",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
